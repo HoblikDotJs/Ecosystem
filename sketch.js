@@ -49,7 +49,11 @@ function draw() {
       "net %": netPerc,
       "food": food.length,
     });
-  } else if (frameCount % 50000 == 0) {
+  }
+}
+
+function keyPressed() {
+  if (keyCode === 83) { //s 
     saveJSON(data, "populationData");
   }
 }
