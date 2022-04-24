@@ -1,8 +1,9 @@
 # Ecosystem wallpaper
 
 An ecosystem of creatures randomly moving through the environment. Eating food prevents it from starvation and makes the creature able to reproduce. 
-Poison instantly kills the creature. Press "s" to download the statistics about the population.
+Poison instantly kills the creature.
 
 Live version: https://hoblikdotjs.github.io/Ecosystem/
 
-![final](https://user-images.githubusercontent.com/51966459/123538933-6dc91580-d737-11eb-994e-76a2a6ab29cf.gif)
+https://user-images.githubusercontent.com/51966459/164996600-59bb3a46-1101-4a02-b5cb-8347d2a40bd1.mp4
+
